@@ -13,7 +13,7 @@ int main()
     for (int i = 0; i; i++)
     {
         std::cout << "Ertek:"
-    }    
+    }
     std::cout << "Atlag szamitasa: " << std::endl;
     int atlag;
     for (int i = 0; i < N_ELEMENTS, i++)
