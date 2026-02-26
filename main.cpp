@@ -29,5 +29,9 @@ int main()
     }
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
+    
+    std :: cout<<"Ez a szoveg egy masik agrol kerult ide.";
     return 0;
+
+
 }
